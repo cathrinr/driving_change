@@ -1,6 +1,6 @@
 # Driving Change: A Data-Driven Strategy for Minimizing Diesel Bans
 
-##Data Collection:
+## Data Collection
 
 For this project, I needed data from three different areas: Traffic, emissions and weather data. 
 
