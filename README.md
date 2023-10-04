@@ -6,7 +6,7 @@ Diesel driving ban zones are static traffic control measures against exceeding a
 
 This can be seen particularly well in the example of Darmstadt. Darmstadt is located in the middle of the Rhine-Main area. As usual for metropolitan areas, there are many commuters who drive not only within but also from the surrounding areas to or through Darmstadt. Unfortunately, Darmstadt does not have a bypass that would provide a connection to the Odenwald district, for example. All traffic is directed through the Darmstadt city area. Thus, very high levels of particulate matter have been measured on the few, but very heavily polluted entrance and exit roads, which has led to the establishment of diesel ban zones. Now, motor vehicles sometimes have to take long detours in order to cross Darmstadt. As an example, I have drawn here one of the most used commuter routes from the Odenwald to Darmstadt in blue. Unfortunately, the most direct way leads through the diesel driving ban zones - here marked in red. So he must now drive the green marked way, which is 10% longer than his original way.
 
-
+![Darmstadt within the Rhine_Main-Area (Source: Wikipedia)](.plots/rhine-main.PNG)
 
 However, Darmstadt did not exceed the limit of 50 micrograms per cubic meter on a single day last year. In some cases, the fine dust pollution at the measuring points was far below the permitted limit. Therefore, the question arises: Is it necessary at all to issue a static driving ban and to guide road users on detours through the city? Wouldn't it be possible to investigate various factors influencing particulate matter pollution and, based on this, to forecast when driving bans are necessary?
 
