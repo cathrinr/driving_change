@@ -1,6 +1,6 @@
-# Driving Change: A Data-Driven Strategy for Minimizing Diesel Bans
+# Driving Change: A Data-Driven Strategy for Minimizing Diesel Bans 💨🚗🌍
 
-## Project Idea
+## Project Idea 🧠💡
 
 Diesel driving ban zones are static traffic control measures against exceeding air pollution threshholds - especially for particulate matter and NO2 emissions. However, these measures  are only reviewed once a year to determine their necessity and effectiveness. The question I would like to investigate is: Are static restrictions such as the german driving bans necessary at all, because many driving ban zones are usually accompanied by an increase in total emissions. This sounds totally counter-intuitive at first, but when important roads are closed, cars have to take detours, which can then lead to increased emissions. 
 
@@ -10,11 +10,11 @@ However, Darmstadt did not exceed the limit of 50 micrograms per cubic meter on 
 
 Influencing factors are
 
-1. a) the traffic volume. Generally speaking, the more vehicles on the road, the higher the emissions. This data can be accessed via maps - such as Google Maps - or via traffic data counts of the cities. Darmstadt Provides minute-by-minute data on the number of vehicles and detector occupancy rate for each intersection.
-2. b) Weather. Relevant parameters such as wind direction, wind force, temperature or relative humidity can be obtained directly from measuring points in the city of Darmstadt. Additional information about precipitation can be obtained via weather APIs.
-3. c) Agriculture. Darmstadt is surrounded by a lot of agriculture, which can also contribute to particulate matter pollution through field work. However, I see this factor as an optional parameter to investigate.
+1. a) the traffic volume. 🚦🚗 Generally speaking, the more vehicles on the road, the higher the emissions. This data can be accessed via maps - such as Google Maps - or via traffic data counts of the cities. Darmstadt Provides minute-by-minute data on the number of vehicles and detector occupancy rate for each intersection.
+2. b) Weather. ☀️🌧️🌈 Relevant parameters such as wind direction, wind force, temperature or relative humidity can be obtained directly from measuring points in the city of Darmstadt. Additional information about precipitation can be obtained via weather APIs.
+3. c) Agriculture. 🚜🐄🌱 Darmstadt is surrounded by a lot of agriculture, which can also contribute to particulate matter pollution through field work. However, I see this factor as an optional parameter to investigate.
 
-## Data Collection
+## Data Collection 📊 🗂️
 
 For this project, I needed data from three different areas: Traffic, emissions and weather data. 
 
